@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Portfolio App",
+    "description": "A overview of 4 projects I've created and worked on.",
+    "created_at": "2018-11-01 13:53:20 UTC",
+    "updated_at": "2018-12-14 13:53:20 UTC"
+  },
+  {
+    "id": 2,
+    "name": "Bb-ladder App",
+    "description": "BB Ladder is basketball management system. It allows players to sign up, captains to create and manage teams and request games.",
+    "created_at": "2018-11-01 13:53:20 UTC",
+    "updated_at": "2017-12-14 13:53:20 UTC"
+  },
+  {
+    "id": 3,
+    "name": "React Resume App",
+    "description": "A personalized resume of my work experience utilizing React ant React-router. Whats on display is my ability of passing props, rendering different components and illustrating the different functionalities of React-router such as the nav-bar.",
+    "created_at": "2018-11-14 13:53:20 UTC",
+    "updated_at": "2017-11-19 13:53:20 UTC"
+  }
+]

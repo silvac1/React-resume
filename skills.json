@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "JavaScript",
+    "proficiency": "Pretty great!"
+  },
+  {
+    "id": 2,
+    "name": "Ruby",
+    "proficiency": "My backend preferred language of choice!"
+  },
+  {
+    "id": 3,
+    "name": "SQL",
+    "proficiency": "In relation to ActiveRecord, I can make it dance!"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "organization": "Boston Ruby Group",
+    "position": "Instructor",
+    "cause": "Learning the MVC concept in Ruby",
+    "start_date": "2018-11-02 08:00:00 UTC",
+    "end_date": "2018-11-03 00:00:00 UTC"
+  },
+  {
+    "id": 2,
+    "organization": "ReactJS Meetup",
+    "position": "Member",
+    "cause": "GatsbyJS, Integration testing GraphQL with Mock Data",
+    "start_date": "2018-12-12 08:00:00 UTC",
+    "end_date": "2018-12-12 00:00:00 UTC"
+  },
+  {
+    "id": 3,
+    "organization": "Launch Academy",
+    "position": "Mentor",
+    "cause": "Mentoring new LA students",
+    "start_date": "2018-12-05 08:00:00 UTC",
+    "end_date": "2019-12-05 08:00:00 UTC"
+  }
+]

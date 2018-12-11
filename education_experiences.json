@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "institution": "Lasalle University",
+    "course_title": "Major in Information Technology",
+    "degree": "B.A. in IT",
+    "start_date": "2005-09-12 08:00:00 UTC",
+    "end_date": "2009-05-22 08:00:00 UTC"
+  },
+  {
+    "id": 2,
+    "institution": "Puppetlabs",
+    "course_title": "Configuration Management (Training course in NYC)",
+    "degree": "N/A",
+    "start_date": "2016-09-19 08:00:00 UTC",
+    "end_date": "2016-09-23 08:00:00 UTC"
+  },
+  {
+    "id": 3,
+    "institution": "Launch Academy",
+    "course_title": "Full-Stack Web Development Immersive Program",
+    "degree": "Full-Stack Developer Certificate",
+    "start_date": "2018-07-02 08:00:00 UTC",
+    "end_date": "2018-11-16 08:00:00 UTC"
+  }
+]

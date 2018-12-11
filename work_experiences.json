@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "company": "Microsoft",
+    "position": "Linux System Administrator",
+    "description": "Automated installations with Puppet, ochestrated a Rk10, Git, Github workflow.",
+    "start_date": "2014-08-03 08:00:00 UTC",
+    "end_date": "2017-09-18 08:00:00 UTC"
+  },
+  {
+    "id": 2,
+    "company": "Bloxx LTD.",
+    "position": "System Administrator",
+    "description": "Provided customer facing support of Bloxx product portfolio based on Redhat, Centos and Ubuntu.",
+    "start_date": "2016-02-14 08:00:00 UTC",
+    "end_date": "2016-03-17 08:00:00 UTC"
+  },
+  {
+    "id": 3,
+    "company": "Granite Telecommunications",
+    "position": "Noc Egineer",
+    "description": "Provided remote assistance to the professional service engineers.",
+    "start_date": "2009-06-01 08:00:00 UTC",
+    "end_date": "2010-09-18 00:00:00 UTC"
+  }
+]
